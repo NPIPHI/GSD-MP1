@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/scoreboard.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/Health_Pickup.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/star.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_Bullet.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/Bullet.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/enemy.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Meshes/heart.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"C:/Users/16182/Documents/2024School/GSD415/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/MI_Helath.uasset"
+			]
+		}
+	]
+}
